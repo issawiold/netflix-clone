@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+nav{
+    display: flex;
+        justify-content: space-around;
+    }
+h1{
+    color:red
+}
+h3{
+    color: aliceblue;
+}
